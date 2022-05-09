@@ -11,14 +11,22 @@
 
 ### Total Rides
 
+![Total Rides box and whisker](./analysis/Fig2.png)
+
 ### Total Drivers
 
+![Total Drivers](./analysis/Fig4.png)
+
 ### Total Fares
+
+![Total Fares](./analysis/Fig3.png)
 
 ### Average Fare per Ride
 
 ### Average Fare per Driver
 
-### Total Fare
+### Total Fare By City Type
+
+![Total Fare](./analysis/PyBer_fare_summary.png)
 
 ## Summary
