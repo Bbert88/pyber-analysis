@@ -19,7 +19,7 @@ As per the above data frame, the data is categorized/grouped by city type. As on
 
 ![Total Rides box and whisker](./analysis/Fig2.png)
 
-One of the goals of this analysis was to determine any outliers. As the above box and whisker plot shows, the only city type which has an outlier is Urban. The plot shows that Urban cities have an average of approx. 24 trips, however there was one city which had approx. 39 trips, which falls above the upper quartile, this being an outlier. Suburban and Rural cities did not have any outliers.
+One of the goals of this analysis was to determine any outliers. As the above box and whisker plot shows, the only city type which has an outlier is Urban. The plot shows that Urban cities have an average of approx. 24 trips, however there was one city which had approx. 39 trips, which falls above the upper quartile, thus being an outlier. Suburban and Rural cities did not have any outliers.
 
 ![Total Drivers](./analysis/Fig4.png)
 
@@ -33,7 +33,7 @@ See the below pie chart which further illustrates the disparity between total dr
 
 ![Pie](./analysis/Fig7.png)
 
-### Total Fares
+### Average Fares
 
 ![Total Fares](./analysis/Fig3.png)
 
@@ -43,7 +43,7 @@ As mentioned earlier, the average fare increases as the number of drivers/rides 
 
 ![Total Fare](./analysis/PyBer_fare_summary.png)
 
-The above line plot shows the total fare amount per city type for the months of January through April. As mentioned earlier, Urban cities maintain the highest fare amount through each month, next are Suburban cities, and lastly, Rural cities. All three city types remain relatively consistent throughout each month. Interestingly, each show a small spike in total fares near the end of February (which could coincide with national holiday - Presidents Day).
+The above line plot shows the total fare amount per city type for the months of January through April. As mentioned earlier, Urban cities maintain the highest total fare amount through each month, next are Suburban cities, and lastly, Rural cities. All three city types remain relatively consistent throughout each month. Interestingly, each show a small spike in total fares near the end of February (which could coincide with national holiday - Presidents Day).
 
 ## Summary
 
@@ -53,4 +53,4 @@ This analysis shed some light on the extent of the disparity of ride-sharing ser
 
 2. Partner with local businesses (bars, restaurants, night clubs, golf courses etc) in marketing efforts to increase the need of ride share services to their locations in Suburban and Rural cities.
 
-3. Offer discounts or other incentives to consumers in Rural and Suburban areas who refer a friend/family member who sign up for the ride share service.
+3. Offer discounts or other incentives to consumers in Rural and Suburban areas who refer a friend/family member who then sign up for the ride share service.
